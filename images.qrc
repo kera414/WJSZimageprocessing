@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wjszlogo.ico</file>
+    </qresource>
+</RCC>
